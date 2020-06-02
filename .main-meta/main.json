@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.0.0",
         "name": "com.microchip.fruits.project.Guava",
-        "version": "1.75.2",
+        "version": "1.80.2",
         "displayName": "Guava",
         "FruitName": "Guava",
         "shortDescription": "Guava is a common tropical fruit cultivated in many tropical and subtropical regions.",
@@ -24,6 +24,13 @@
             "Winter",
             "Drupes",
             "Green"
+        ],
+        "subcategories": [
+            "Drupes",
+            [
+                "Season",
+                "Winter"
+            ]
         ],
         "vendors": {
             "vendorName": "wallmart",
@@ -48,7 +55,7 @@
             "category": "com.microchip.portal.fileRef",
             "content": {
                 "metaDataVersion": "1.0.0",
-                "fileName": "./README.md",
+                "fileName": "./readme.md",
                 "mimeType": "text/markdown"
             }
         }
