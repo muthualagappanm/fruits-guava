@@ -9,21 +9,20 @@
         "FruitName": "Guava",
         "shortDescription": "Guava is a common tropical fruit cultivated in many tropical and subtropical regions.",
         "category": [
-            "Drupes"
+            "Banana"
         ],
-        "color": "Green",
+        "color": "Yellow",
         "season": [
-            "Winter"
+            "Summer"
         ],
-        "shape": "Pear",
+        "shape": "Moon",
         "family": "fruits",
         "expires": "30/01/2021",
         "warranty": "NA",
         "returnPolicy": "NA",
         "keywords": [
-            "Winter",
-            "Drupes",
-            "Green"
+            "Summer",
+            "Yellow"
         ],
         "subcategories": [
             "Drupes",
@@ -36,13 +35,13 @@
             "vendorName": "wallmart",
             "price": "2$",
             "dealer": {
-                "dealerName": "Fruit Mart",
+                "dealerName": "White Fruit Mart",
                 "location": {
-                    "state": "New York",
+                    "state": "Texas",
                     "Address": {
-                        "Address Line 1": "S1225",
-                        "Address Line 2": "New Street",
-                        "State": "New York",
+                        "Address Line 1": "E1775",
+                        "Address Line 2": "Wellington Street",
+                        "State": "Texas",
                         "Country": "US"
                     }
                 }
