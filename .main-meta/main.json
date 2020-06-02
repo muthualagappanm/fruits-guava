@@ -1,63 +1,46 @@
 {
     "metaDataVersion": "1.0.0",
-    "category": "com.microchip.ide.project",
+    "category": "com.microchip.fruits.project",
     "content": {
         "metaDataVersion": "1.0.0",
-        "name": "com.microchip.mcu8.mplabx.project.explorer_8_labs",
+        "name": "com.microchip.fruits.project.Guava",
         "version": "1.75.2",
-        "displayName": "Explorer-8 Labs",
-        "projectName": "PIC18F25K42-explorer-8-labs",
-        "shortDescription": "11 labs that will demonstrate Explorer 8 board capabilities and showcase the functionality of PIC18F25K42 device.",
-        "ide": {
-            "name": "MPLABX",
-            "semverRange": ">=5.30.0"
-        },
-        "compiler": {
-            "name": "XC8",
-            "semverRange": "^5.30"
-        },
-        "dfp": {
-            "name": "PIC18F25K42_DFP",
-            "semverRange": "^1.3.222"
-        },
-        "configurator": {
-            "name": "MCC",
-            "semverRange": ">=3.75"
-        },
-        "device": {
-            "metaDataVersion": "1.0.0",
-            "category": "com.microchip.portal.contentRef",
-            "content": {
-                "metaDataVersion": "1.0.0",
-                "category": "com.microchip.device",
-                "name": "PIC18F25K42",
-                "versionRange": "*"
-            }
-        },
-        "author": "Microchip",
-        "subcategories": [
-            [
-                "Labs",
-                "ADC"
-            ],
-            [
-                "Labs",
-                "PWM"
-            ]
+        "displayName": "Guava",
+        "FruitName": "Guava",
+        "shortDescription": "Guava is a common tropical fruit cultivated in many tropical and subtropical regions.",
+        "category": [
+            "Drupes"
         ],
-        "peripherals": [
-            "PWM",
-            "TMR",
-            "CCP",
-            "ADC"
+        "color": "Green",
+        "season": [
+            "Winter"
         ],
+        "shape": "Pear",
+        "family": "fruits",
+        "expires": "30/01/2021",
+        "warranty": "NA",
+        "returnPolicy": "NA",
         "keywords": [
-            "Labs",
-            "ADC",
-            "PWM",
-            "Timer",
-            "Interrupt"
-        ]
+            "Winter",
+            "Drupes",
+            "Green"
+        ],
+        "vendors": {
+            "vendorName": "wallmart",
+            "price": "2$",
+            "dealer": {
+                "dealerName": "Fruit Mart",
+                "location": {
+                    "state": "New York",
+                    "Address": {
+                        "Address Line 1": "S1225",
+                        "Address Line 2": "New Street",
+                        "State": "New York",
+                        "Country": "US"
+                    }
+                }
+            }
+        }
     },
     "additionalData": {
         "longDescription": {
